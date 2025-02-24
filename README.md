@@ -68,4 +68,4 @@ BenchmarkDelete-4                987,654 ops/ns    512 B/op  2 allocs/op
 ```
 
 ## License
-MIT License - See LICENSE for details
+MIT License - See [LICENSE]|(LICENSE) for details
